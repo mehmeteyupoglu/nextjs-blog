@@ -14,6 +14,8 @@ export default function Home() {
           Learn <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
+        <img src='/logo.png' width={70} height={70}/>
+
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
         </p>
